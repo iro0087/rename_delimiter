@@ -19,4 +19,8 @@ Rename folders or files in the current directory based on a specified delimiter
           sample_v.txt
           sample_v2.txt
 
+### Explanation
+
+All the spaces are converted into underscores
+
 
