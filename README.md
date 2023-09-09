@@ -31,6 +31,6 @@ The script creates files "ap.txt" and "av.txt", so if you have files with the sa
 
 You can create an alias in your .bashrc for example...
 
-###Example
+### Example
 
 alias new_command="bash ~/path_to_the_script/script.sh"
